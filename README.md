@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Philosophers</title>
-</head>
 <body>
 
 <h1>Philosophers</h1>
