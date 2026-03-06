@@ -6,7 +6,7 @@
 #    By: banne <banne@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/11/25 12:51:57 by banne             #+#    #+#              #
-#    Updated: 2026/03/06 12:55:24 by banne            ###   ########.fr        #
+#    Updated: 2026/03/06 12:57:02 by banne            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -39,5 +39,5 @@ fclean: clean
 	rm -f $(NAME)
 
 re: fclean all
-
+ 
 .PHONY: all clean fclean re
